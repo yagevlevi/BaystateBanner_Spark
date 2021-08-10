@@ -1,0 +1,405 @@
+,WARD_PRECI,NEIGHBORHOOD
+0,1814,Roslindale
+1,1814,Hyde Park
+2,1822,Roslindale
+3,1822,Hyde Park
+4,1811,Roslindale
+5,1811,West Roxbury
+6,1811,Hyde Park
+7,1808,Roslindale
+8,1808,Hyde Park
+9,1821,Roslindale
+10,1821,Hyde Park
+11,1821,Mattapan
+12,2010,Roslindale
+13,2010,West Roxbury
+14,1809,Roslindale
+15,1809,Hyde Park
+16,1803,Roslindale
+17,1803,Mattapan
+18,2009,Roslindale
+19,2009,West Roxbury
+20,1810,Roslindale
+21,1807,Roslindale
+22,1807,Jamaica Plain
+23,1807,Hyde Park
+24,1807,Mattapan
+25,1910,Roslindale
+26,2011,Roslindale
+27,2011,West Roxbury
+28,2008,Roslindale
+29,2008,West Roxbury
+30,1408,Roslindale
+31,1408,Jamaica Plain
+32,1408,Mattapan
+33,2002,Roslindale
+34,1913,Roslindale
+35,1913,Jamaica Plain
+36,2007,Roslindale
+37,2007,West Roxbury
+38,1912,Roslindale
+39,1912,Jamaica Plain
+40,2004,Roslindale
+41,2004,Jamaica Plain
+42,1911,Roslindale
+43,1911,Jamaica Plain
+44,2001,Roslindale
+45,2001,Jamaica Plain
+46,2001,West Roxbury
+47,2006,Roslindale
+48,2006,Jamaica Plain
+49,2006,West Roxbury
+50,1907,Roslindale
+51,1907,Jamaica Plain
+52,1907,Mattapan
+53,1902,Roslindale
+54,1902,Jamaica Plain
+55,1902,West Roxbury
+56,1106,Jamaica Plain
+57,1105,Jamaica Plain
+58,1105,Roxbury
+59,1905,Jamaica Plain
+60,1904,Jamaica Plain
+61,1903,Jamaica Plain
+62,1104,Jamaica Plain
+63,1104,Roxbury
+64,1901,Jamaica Plain
+65,1009,Jamaica Plain
+66,1007,Jamaica Plain
+67,1007,Mission Hill
+68,1102,Jamaica Plain
+69,1102,Roxbury
+70,1006,Jamaica Plain
+71,1006,Mission Hill
+72,1101,Jamaica Plain
+73,1101,Mission Hill
+74,1101,Roxbury
+75,1008,Jamaica Plain
+76,1008,Mission Hill
+77,1005,Jamaica Plain
+78,1005,Mission Hill
+79,1005,Roxbury
+80,1108,Jamaica Plain
+81,1108,Roxbury
+82,1110,Jamaica Plain
+83,1207,Jamaica Plain
+84,1207,Roxbury
+85,1207,Mattapan
+86,1207,Dorchester
+87,1109,Jamaica Plain
+88,1107,Jamaica Plain
+89,1107,Roxbury
+90,1909,Jamaica Plain
+91,1906,Jamaica Plain
+92,1908,Jamaica Plain
+93,1002,Mission Hill
+94,1003,Mission Hill
+95,1003,Longwood
+96,1004,Mission Hill
+97,1004,Longwood
+98,1001,Mission Hill
+99,1001,Longwood
+100,0904,Mission Hill
+101,0904,Roxbury
+102,0409,Mission Hill
+103,0409,Roxbury
+104,0409,Fenway
+105,0410,Mission Hill
+106,0410,Longwood
+107,0410,Fenway
+108,0408,Mission Hill
+109,0408,Roxbury
+110,0408,Back Bay
+111,0408,Fenway
+112,0501,Bay Village
+113,0501,Chinatown
+114,0501,South End
+115,0501,Back Bay
+116,0501,Beacon Hill
+117,0501,Downtown
+118,0308,Leather District
+119,0308,Chinatown
+120,0308,South End
+121,0308,Beacon Hill
+122,0308,Downtown
+123,0301,North End
+124,0301,Downtown
+125,0303,North End
+126,0303,Downtown
+127,0304,North End
+128,0304,West End
+129,0304,Downtown
+130,0305,North End
+131,0305,West End
+132,0305,Beacon Hill
+133,0302,North End
+134,0302,West End
+135,1401,Roxbury
+136,1401,Dorchester
+137,1304,Roxbury
+138,1304,Dorchester
+139,1301,Roxbury
+140,1301,Dorchester
+141,1302,Roxbury
+142,1302,Dorchester
+143,0710,Roxbury
+144,0710,Dorchester
+145,1204,Roxbury
+146,0709,Roxbury
+147,0709,Dorchester
+148,0805,Roxbury
+149,0805,Dorchester
+150,0807,Roxbury
+151,0708,Roxbury
+152,0708,Dorchester
+153,0708,South Boston
+154,0806,Roxbury
+155,0806,Dorchester
+156,0806,South Boston
+157,0803,Roxbury
+158,0803,South End
+159,0803,South Boston
+160,0802,Roxbury
+161,0802,South End
+162,0802,South Boston
+163,0902,Roxbury
+164,0902,South End
+165,0902,Back Bay
+166,1202,Roxbury
+167,1202,Dorchester
+168,1206,Roxbury
+169,1206,Dorchester
+170,1208,Roxbury
+171,1103,Roxbury
+172,1205,Roxbury
+173,1203,Roxbury
+174,1201,Roxbury
+175,0905,Roxbury
+176,0804,Roxbury
+177,0903,Roxbury
+178,0903,South End
+179,0903,Back Bay
+180,1411,Roxbury
+181,1411,Mattapan
+182,1411,Dorchester
+183,1409,Roxbury
+184,1409,Dorchester
+185,1209,Roxbury
+186,0801,South End
+187,0801,Downtown
+188,0801,South Boston
+189,0901,South End
+190,0307,South End
+191,0403,South End
+192,0403,Back Bay
+193,0401,South End
+194,0402,South End
+195,0402,Back Bay
+196,0404,South End
+197,0404,Back Bay
+198,0507,Back Bay
+199,0506,Back Bay
+200,0506,Beacon Hill
+201,0503,Back Bay
+202,0503,Beacon Hill
+203,0503,Downtown
+204,0505,Back Bay
+205,0505,Beacon Hill
+206,0511,Back Bay
+207,0511,Beacon Hill
+208,0405,Back Bay
+209,0405,Fenway
+210,0407,Back Bay
+211,0407,Fenway
+212,0406,Back Bay
+213,0406,Fenway
+214,0510,Back Bay
+215,0510,Fenway
+216,0509,Back Bay
+217,0509,Fenway
+218,0508,Back Bay
+219,0101,East Boston
+220,0103,East Boston
+221,0102,East Boston
+222,0104,East Boston
+223,0105,East Boston
+224,0106,East Boston
+225,0107,East Boston
+226,0110,East Boston
+227,0109,East Boston
+228,0108,East Boston
+229,0111,East Boston
+230,0112,East Boston
+231,0113,East Boston
+232,0114,East Boston
+233,0201,Charlestown
+234,0203,Charlestown
+235,0202,Charlestown
+236,0204,Charlestown
+237,0206,Charlestown
+238,0205,Charlestown
+239,0207,Charlestown
+240,0306,West End
+241,0306,Beacon Hill
+242,0306,Downtown
+243,0504,West End
+244,0504,Beacon Hill
+245,0502,Fenway
+246,2101,Fenway
+247,0502A,Fenway
+248,2102,Fenway
+249,2102,Allston
+250,2116,Brighton
+251,2114,Brighton
+252,2115,Brighton
+253,2112,Brighton
+254,2113,Brighton
+255,2208,Brighton
+256,2111,Brighton
+257,2110,Brighton
+258,2209,Brighton
+259,2108,Brighton
+260,2108,Allston
+261,2109,Brighton
+262,2109,Allston
+263,2203,Brighton
+264,2203,Allston
+265,2204,Brighton
+266,2107,Brighton
+267,2107,Allston
+268,2210,Brighton
+269,2207,Brighton
+270,2106,Brighton
+271,2106,Allston
+272,2206,Brighton
+273,2206,Allston
+274,2213,Brighton
+275,2212,Brighton
+276,2211,Brighton
+277,2202,Brighton
+278,2202,Allston
+279,2205,Brighton
+280,2205,Allston
+281,2201,Brighton
+282,2201,Allston
+283,1819,West Roxbury
+284,1819,Hyde Park
+285,1823,West Roxbury
+286,1823,Hyde Park
+287,1812,West Roxbury
+288,1812,Hyde Park
+289,2015,West Roxbury
+290,2003,West Roxbury
+291,2003,Hyde Park
+292,2016,West Roxbury
+293,2005,West Roxbury
+294,2014,West Roxbury
+295,2013,West Roxbury
+296,2012,West Roxbury
+297,2018,West Roxbury
+298,2017,West Roxbury
+299,2019,West Roxbury
+300,2020,West Roxbury
+301,1820,Hyde Park
+302,1817,Hyde Park
+303,1818,Hyde Park
+304,1816,Hyde Park
+305,1813,Hyde Park
+306,1815,Hyde Park
+307,1805,Hyde Park
+308,1805,Mattapan
+309,1806,Hyde Park
+310,1806,Mattapan
+311,1804,Hyde Park
+312,1804,Mattapan
+313,1713,Mattapan
+314,1713,Dorchester
+315,1714,Mattapan
+316,1714,Dorchester
+317,1712,Mattapan
+318,1712,Dorchester
+319,1611,Mattapan
+320,1611,Dorchester
+321,1704,Mattapan
+322,1704,Dorchester
+323,1710,Mattapan
+324,1710,Dorchester
+325,1801,Mattapan
+326,1801,Dorchester
+327,1802,Mattapan
+328,1802,Dorchester
+329,1405,Mattapan
+330,1405,Dorchester
+331,1414,Mattapan
+332,1414,Dorchester
+333,1413,Mattapan
+334,1413,Dorchester
+335,1612,Dorchester
+336,1711,Dorchester
+337,1608,Dorchester
+338,1609,Dorchester
+339,1709,Dorchester
+340,1708,Dorchester
+341,1606,Dorchester
+342,1610,Dorchester
+343,1705,Dorchester
+344,1607,Dorchester
+345,1603,Dorchester
+346,1706,Dorchester
+347,1604,Dorchester
+348,1703,Dorchester
+349,1605,Dorchester
+350,1402,Dorchester
+351,1701,Dorchester
+352,1601,Dorchester
+353,1702,Dorchester
+354,1602,Dorchester
+355,1508,Dorchester
+356,1505,Dorchester
+357,1404,Dorchester
+358,1509,Dorchester
+359,1507,Dorchester
+360,1502,Dorchester
+361,1506,Dorchester
+362,1503,Dorchester
+363,1504,Dorchester
+364,1310,Dorchester
+365,1501,Dorchester
+366,1309,Dorchester
+367,1306,Dorchester
+368,1305,Dorchester
+369,1308,Dorchester
+370,1303,Dorchester
+371,1303,South Boston
+372,1307,Dorchester
+373,0707,Dorchester
+374,0707,South Boston
+375,0706,Dorchester
+376,0706,South Boston
+377,0705,Dorchester
+378,0705,South Boston
+379,1707,Dorchester
+380,1412,Dorchester
+381,1410,Dorchester
+382,1407,Dorchester
+383,1406,Dorchester
+384,1403,Dorchester
+385,0604,South Boston Waterfront
+386,0604,South Boston
+387,0601,South Boston Waterfront
+388,0601,South Boston
+389,0701,South Boston
+390,0703,South Boston
+391,0702,South Boston
+392,0704,South Boston
+393,0606,South Boston
+394,0608,South Boston
+395,0609,South Boston
+396,0602,South Boston
+397,0603,South Boston
+398,0607,South Boston
+399,0605,South Boston
+400,2105,Allston
+401,2103,Allston
+402,2104,Allston
+403,0115,Harbor Islands
